@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@uphold/github-changelog-generator": "^0.7.0"
+  }
+}
